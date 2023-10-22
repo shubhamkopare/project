@@ -1,0 +1,49 @@
+.h-h{
+  font-weight: normal;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 20px solid black;
+    margin: 20px;
+    padding: 0px;
+    
+}
+#blue{
+    background:linear-gradient( to right,skyblue, white);
+}
+
+
+
+#red{
+    color: ;
+    background:linear-gradient(to right,red,white);
+}
+#orange{
+    color:;
+    background:linear-gradient(to right,orange,white)
+}
+#mango{
+    color: yellow;
+    background-color: red;
+}
+.colo{
+    background:linear-gradient(to right, green, white );
+
+}
+.g-h{
+    font-weight: normal;
+}
+#back
+{
+    background:linear-gradient( to right,purple, white);
+}
+.rr{
+    text-align: center;
+}
+.ru{
+    color: ;
+}
+.dd{
+    border: 3px;
+}
